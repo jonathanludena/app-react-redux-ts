@@ -1,5 +1,6 @@
 {
-  "name": "gp_test",
+  "name": "app-react-redux-ts",
+  "description": "App using React, Typescript & Redux Toolkit with ViteJS",
   "private": true,
   "version": "0.0.0",
   "type": "module",
