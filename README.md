@@ -16,4 +16,3 @@
 - Doc [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
 - Redux Toolkit [usage with Typescript](https://redux-toolkit.js.org/usage/usage-with-typescript)
 - Doc [RxJS](https://rxjs.dev/guide/installation)
--
